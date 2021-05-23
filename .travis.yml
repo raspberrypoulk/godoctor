@@ -1,7 +1,7 @@
 language: go
 
 go:
-    - 1.14
+    - 1.16
 
 script: travis_wait 20 go test -v -timeout 20m ./...
 
