@@ -1,4 +1,4 @@
-module github.com/godoctor/godoctor
+module github.com/raspberrypoulk/godoctor
 
 go 1.16
 
