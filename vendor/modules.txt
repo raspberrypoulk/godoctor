@@ -9,3 +9,4 @@ golang.org/x/tools/go/ast/astutil
 golang.org/x/tools/go/buildutil
 golang.org/x/tools/go/internal/cgo
 golang.org/x/tools/go/loader
+# github.com/godoctor/godoctor => github.com/raspberrypoulk/godoctor v0.0.0-20210523201842-f501b86065ff
